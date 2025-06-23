@@ -51,5 +51,8 @@ COVID-19 had a massive impact globally, and analyzing its data is essential for 
 6. **DataFrame Construction and Export (optional)**:  
    The fetched data is stored in a Pandas DataFrame for further analysis or export.
 
- 
+*OUTPUT* :
+![Image](https://github.com/user-attachments/assets/7b6585cc-e64f-46dd-bb2d-f4e8bbf6eb85)
+![Image](https://github.com/user-attachments/assets/59651137-b902-4d9d-8564-645632ce5cd1)
+![Image](https://github.com/user-attachments/assets/13abdef0-797c-4cde-b182-f2bf658ed6d1)
 
