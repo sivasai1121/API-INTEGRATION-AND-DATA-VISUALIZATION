@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*:
+*MENTOR*: NEELA SANTHOSH
 
 ** COVID-19 Data Visualization using Python and Real-Time API
 
